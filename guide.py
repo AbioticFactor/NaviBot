@@ -1,7 +1,7 @@
 import xlrd
 
 def guide(gamename):
-    path = (r"C:\\My Code\\NaviBot\\NaviGames.xlsx")
+    path = (r"path")
     games = xlrd.open_workbook(path)
     sheet = games.sheet_by_index(0)
 
