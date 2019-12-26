@@ -48,4 +48,4 @@ async def on_message(message):
 async def on_ready():
     print('Ready...')
 
-client.run('NDcwMTA2MDExMDcyNDYyODY5.DjTe4A.WPm9-SthnpvHp5OubdRpIpHhy68')
+client.run('Put Token Here')
